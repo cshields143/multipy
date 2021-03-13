@@ -1,0 +1,7 @@
+# ignore everything
+**
+
+# ...except:
+!Python-3.6.13.tar.xz
+!Python-3.7.10.tar.xz
+!Python-3.8.8.tar.xz
