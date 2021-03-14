@@ -13,6 +13,7 @@ RUN DEBIAN_FRONTEND=noninteractive apt-get install -y \
     software-properties-common \
     build-essential \
     zlib1g-dev \
+    libffi-dev \
     xz-utils
 
 # get all tools necessary to USE python after building
